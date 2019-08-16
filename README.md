@@ -10,7 +10,7 @@ A Statistics problem can faced by 2 methods
 
 By Hacker Statistics we tackle the problem by generating the outcomes of problem and then taking the count of reqd. probability.
 
-Basically we can **simulating**  the sampling distibution (problem) which is easy.
+Basically we can **SIMULATE**  the sampling distibution (problem) which is easy.
 Then count of that simulation would give me the probability.
 
 ## Problem Statement
