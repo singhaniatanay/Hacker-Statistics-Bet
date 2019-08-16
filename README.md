@@ -48,4 +48,4 @@ By the above histogram we could see the sampling distribution estimate we have c
 Now for the ans we can count the number of end results of walks >=60 and divided by the total  (500) would give us the ans.
 
 i.e
-		- 78.4% Chances we will win the bet.
+		- **78.4% Chances we will win the bet.**
