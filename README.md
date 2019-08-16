@@ -15,7 +15,7 @@ Then count of that simulation would give me the probability.
 
 ## Problem Statement
 
-You are on a *BUILDING* with 600 floors. You start with Ground Floor(0). We play a game in which we "Roll a Dice".  
+You are in a *BUILDING*. You start with Ground Floor(0). We play a game in which we "Roll a Dice".  
 
 If Dice rolls :
 		1 or 2 it takes a step down
